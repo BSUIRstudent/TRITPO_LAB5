@@ -1,5 +1,3 @@
-# TRITPO_LAB5
- 
 # Project testing
 
 ## Введение
